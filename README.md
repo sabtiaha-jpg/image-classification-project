@@ -12,8 +12,12 @@ MLP Neural Network — 30% accuracy
 
 Dataset
 654 images scraped from Google, organized into 3 categories, resized to 64×64 grayscale pixels and flattened into 1D vectors.
-Results Summary
-ModelAccuracyF1-ScoreNaive Bayes43%0.412Decision Tree72%0.711Neural Network30%0.250
+Results Summary:
+
+Naive Bayes: 43% accuracy, F1 = 0.412
+Decision Tree: 72% accuracy, F1 = 0.711
+Neural Network: 30% accuracy, F1 = 0.250
+
 The Decision Tree outperformed the other models on this dataset size.
 
 📄 See the full report PDF for details.
